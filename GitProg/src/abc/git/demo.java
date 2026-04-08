@@ -1,7 +1,8 @@
 package abc.git;
 
 public class demo {
+	int x=10;
 	public static void main(String[] args) {
-		System.out.println("Namaste");
+		System.out.println("Pune");
 		}
 }
